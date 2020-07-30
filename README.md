@@ -1,2 +1,2 @@
-# py-experiments
-One Playground of mine to explore Python
+# Binomial Distributions
+Gausssian and Binomial Distribution
